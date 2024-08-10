@@ -1,10 +1,9 @@
-
 const Index = () => {
   return (
-    <div>
-        <p className="text-2xl"> Index</p>
-    </div>
-  )
-}
+    <>
+      <p className="text-7xl">Components Tailwind</p>
+    </>
+  );
+};
 
-export default Index
+export default Index;
